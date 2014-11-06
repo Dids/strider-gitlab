@@ -19,8 +19,8 @@ requirements
 contributors
 ============
   * Martin Ericson (http://www.devbox.com)
+  * Jonas Liljestrand ([jonlil](https://github.com/jonlil))
   * [nodefourtytwo/strider-gitlab](https://github.com/nodefourtytwo/strider-gitlab)
-  * [jonlil](https://github.com/jonlil)
   * [edy](https://github.com/edy)
 
 license
